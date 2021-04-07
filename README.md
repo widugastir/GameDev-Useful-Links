@@ -1,4 +1,4 @@
-# GameDev (unity) Useful Links
+# GameDev (Unity) Useful Links
 Collection of gamedev useful links
 
 ## Design patterns
