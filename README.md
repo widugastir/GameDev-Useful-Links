@@ -2,8 +2,6 @@
 
 ## Design patterns
 - https://github.com/QianMo/Unity-Design-Pattern
-
-## Unity-specific links
 ### Singleton
 - https://www.reddit.com/r/Unity3D/comments/9tx4rs/monosingleton_vs_singleton_vs_static_class/
 - http://www.unitygeek.com/unity_c_singleton/
