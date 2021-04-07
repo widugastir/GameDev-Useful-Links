@@ -41,7 +41,11 @@
 - https://pixabay.com/service/license/
 
 ## GameDesign
+### Balance
 - https://machinations.io/
+
+### Level design
+https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/preview?pru=AAABcuV6jKM*_MWUhVg70PB_UoSLJt2wpA
 
 ## Other link libraries
 - https://github.com/proyecto26/awesome-unity
