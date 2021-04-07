@@ -1,5 +1,4 @@
 # GameDev (Unity) Useful Links
-Collection of gamedev useful links
 
 ## Design patterns
 - https://github.com/QianMo/Unity-Design-Pattern
