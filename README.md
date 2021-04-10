@@ -18,6 +18,9 @@
 ### Mesh manipulation
 - https://github.com/keenanwoodall/Deform
 
+### Dialogue, inventory(craft), experience, attribute, minimap systems
+https://quantumtekhub.com/docs/
+
 ## Tutorials
 - http://www.unitygeek.com/
 - https://www.raywenderlich.com/library?domain_ids%5B%5D=3&sort_order=released_at
