@@ -3,6 +3,7 @@
 ## Design patterns
 - https://refactoring.guru/design-patterns
 - https://github.com/QianMo/Unity-Design-Pattern
+- https://habr.com/ru/company/itelma/blog/546372/ (RUS)
 ### Singleton
 - https://www.reddit.com/r/Unity3D/comments/9tx4rs/monosingleton_vs_singleton_vs_static_class/
 - http://www.unitygeek.com/unity_c_singleton/
