@@ -63,3 +63,13 @@
 - https://github.com/michidk/Unity-Script-Collection
 - https://github.com/baba-s/awesome-unity-open-source-on-github
 - https://github.com/HotpotDesign/Game-Assets-And-Resources
+
+## GameDev & Coders resources
+### Eng
+- https://stackoverflow.com/
+- https://www.gamedev.net/
+- https://itch.io/
+
+### Rus
+- https://gamedev.ru/
+- https://dtf.ru/indie
