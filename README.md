@@ -69,6 +69,7 @@
 - https://stackoverflow.com/
 - https://www.gamedev.net/
 - https://itch.io/
+- https://www.gamasutra.com/
 
 ### Rus
 - https://gamedev.ru/
