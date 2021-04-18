@@ -21,7 +21,7 @@
 - https://github.com/keenanwoodall/Deform
 
 ### Dialogue, inventory(craft), experience, attribute, minimap systems
-https://quantumtekhub.com/docs/
+- https://quantumtekhub.com/docs/
 
 ## Tutorials
 - http://www.unitygeek.com/
@@ -45,6 +45,14 @@ https://quantumtekhub.com/docs/
 - https://pixabay.com/service/license/
 
 ## GameDesign
+### Game Design Document
+- https://www.codecks.io/
+- https://www.notion.so/
+
+### Mindmaps & Brainstorm
+- https://miro.com/app
+- https://whimsical.com/
+
 ### Balance
 - https://machinations.io/
 
