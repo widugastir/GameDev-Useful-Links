@@ -70,13 +70,15 @@
 - https://github.com/HotpotDesign/Game-Assets-And-Resources
 - https://github.com/nickgravelyn/UnityToolbag
 
+## Usorted
+- https://github.com/tenpn/ChestOfPropertyDrawers
+
 ## GameDev & Coders resources
 ### Eng
 - https://stackoverflow.com/
 - https://www.gamedev.net/
 - https://itch.io/
 - https://www.gamasutra.com/
-- https://github.com/tenpn/ChestOfPropertyDrawers
 
 ### Rus
 - https://gamedev.ru/
