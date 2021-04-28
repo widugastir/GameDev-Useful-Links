@@ -69,6 +69,7 @@
 - https://github.com/baba-s/awesome-unity-open-source-on-github
 - https://github.com/HotpotDesign/Game-Assets-And-Resources
 - https://github.com/nickgravelyn/UnityToolbag
+- https://github.com/UnityCommunity/UnityLibrary
 
 ## Usorted
 - https://github.com/tenpn/ChestOfPropertyDrawers
