@@ -68,6 +68,7 @@
 - https://github.com/michidk/Unity-Script-Collection
 - https://github.com/baba-s/awesome-unity-open-source-on-github
 - https://github.com/HotpotDesign/Game-Assets-And-Resources
+- https://github.com/nickgravelyn/UnityToolbag
 
 ## GameDev & Coders resources
 ### Eng
