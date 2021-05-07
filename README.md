@@ -82,6 +82,7 @@
 - https://www.gamedev.net/
 - https://itch.io/
 - https://www.gamasutra.com/
+- https://gamejolt.com/
 
 ### Rus
 - https://gamedev.ru/
