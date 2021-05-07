@@ -48,6 +48,7 @@
 ### Game Design Document
 - https://www.codecks.io/
 - https://www.notion.so/
+- https://www.atlassian.com/software/confluence
 
 ### Mindmaps & Brainstorm
 - https://miro.com/app
