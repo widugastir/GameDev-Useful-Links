@@ -49,6 +49,7 @@
 - https://www.codecks.io/
 - https://www.notion.so/
 - https://www.atlassian.com/software/confluence
+- https://www.hacknplan.com
 
 ### Mindmaps & Brainstorm
 - https://miro.com/app
