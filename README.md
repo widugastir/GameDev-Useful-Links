@@ -90,3 +90,4 @@
 - https://gamedev.ru/
 - https://dtf.ru/indie
 - https://metanit.com/sharp/tutorial/3.18.php
+- https://live13.livejournal.com/462582.html
