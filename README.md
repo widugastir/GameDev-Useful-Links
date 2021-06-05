@@ -91,3 +91,4 @@
 - https://dtf.ru/indie
 - https://metanit.com/sharp/tutorial/3.18.php
 - https://live13.livejournal.com/462582.html
+- https://habr.com/ru/post/340536/
