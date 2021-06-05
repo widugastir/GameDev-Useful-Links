@@ -11,6 +11,9 @@
 ### Events
 - http://www.unitygeek.com/delegates-events-unity/
 
+### Attributes
+- https://github.com/dbrizov/NaughtyAttributes
+
 ### Math experiments
 - https://github.com/zalo/MathUtilities
 
