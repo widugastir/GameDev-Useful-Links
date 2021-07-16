@@ -80,6 +80,12 @@
 ## Unsorted
 - https://github.com/tenpn/ChestOfPropertyDrawers
 - https://cascadeur.com/
+- http://strangeioc.github.io/strangeioc/
+- https://habr.com/ru/post/245589/
+- https://habr.com/ru/post/318802/
+- https://ru.stackoverflow.com/questions/936026/Правильная-реализация-передвижения-персонажа
+- https://medium.com/medialesson/simple-service-locator-for-your-unity-project-40e317aad307
+- https://evilinside.ru/sovety-i-rekomendacii-po-rabote-s-unity3d/
 
 ## GameDev & Coders resources
 ### Eng
