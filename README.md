@@ -88,6 +88,8 @@
 - https://medium.com/medialesson/simple-service-locator-for-your-unity-project-40e317aad307
 - https://evilinside.ru/sovety-i-rekomendacii-po-rabote-s-unity3d/
 - https://unity.com/ru/how-to/how-architect-code-your-project-scales
+- https://ulearn.me/
+- 
 
 ## GameDev & Coders resources
 ### Eng
