@@ -102,6 +102,7 @@
 - https://itch.io/
 - https://www.gamasutra.com/
 - https://gamejolt.com/
+- https://simmer.io/
 
 ### Rus
 - https://gamedev.ru/
