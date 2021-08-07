@@ -52,6 +52,8 @@
 - https://blog.unity.com/technology/a-lightning-round-of-great-tips-for-2d-games
 - https://blog.unity.com/technology/2d-pixel-perfect-how-to-set-up-your-unity-project-for-retro-8-bits-games
 - https://blog.unity.com/technology/2d-pixel-perfect-for-a-crisp-conquest-in-skul-the-hero-slayer
+- https://docs.unity3d.com/Packages/com.unity.2d.pixel-perfect@5.0/manual/index.html
+- https://docs.unity3d.com/Packages/com.unity.vectorgraphics@2.0/manual/index.html
 
 ## Optimization
 - https://docs.microsoft.com/ru-ru/windows/mixed-reality/develop/unity/performance-recommendations-for-unity
