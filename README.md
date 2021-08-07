@@ -53,6 +53,10 @@
 - https://learn.unity.com/tutorial/physics-best-practices#
 - https://docs.unity3d.com/Manual/DrawCallBatching.html
 - https://learn.unity.com/tutorial/fixing-performance-problems#5c7f8528edbc2a002053b594
+- https://docs.unity3d.com/Manual/LevelOfDetail.html
+- https://docs.unity3d.com/Manual/shader-variant-collections.html
+- https://docs.unity3d.com/Manual/OcclusionCulling.html
+- https://learn.unity.com/tutorial/object-pooling
 
 ## GameDesign
 ### Game Design Document
