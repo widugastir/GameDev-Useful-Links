@@ -48,6 +48,9 @@
 - https://unsplash.com/license
 - https://pixabay.com/service/license/
 
+## Optimization
+- https://docs.microsoft.com/ru-ru/windows/mixed-reality/develop/unity/performance-recommendations-for-unity
+
 ## GameDesign
 ### Game Design Document
 - https://www.codecks.io/
