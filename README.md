@@ -48,6 +48,11 @@
 - https://unsplash.com/license
 - https://pixabay.com/service/license/
 
+## 2D
+- https://blog.unity.com/technology/a-lightning-round-of-great-tips-for-2d-games
+- https://blog.unity.com/technology/2d-pixel-perfect-how-to-set-up-your-unity-project-for-retro-8-bits-games
+- https://blog.unity.com/technology/2d-pixel-perfect-for-a-crisp-conquest-in-skul-the-hero-slayer
+
 ## Optimization
 - https://docs.microsoft.com/ru-ru/windows/mixed-reality/develop/unity/performance-recommendations-for-unity
 - https://learn.unity.com/tutorial/physics-best-practices#
