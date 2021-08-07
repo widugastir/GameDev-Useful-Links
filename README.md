@@ -110,6 +110,7 @@
 - https://unity3d.com/ru/how-to/unity-ui-optimization-tips
 - https://habr.com/ru/post/481510/
 - https://habr.com/ru/company/banzai/blog/478398/
+- https://habr.com/ru/post/266345/
 
 ## GameDev & Coders resources
 ### Eng
