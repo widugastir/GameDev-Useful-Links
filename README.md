@@ -50,6 +50,7 @@
 
 ## Optimization
 - https://docs.microsoft.com/ru-ru/windows/mixed-reality/develop/unity/performance-recommendations-for-unity
+- https://learn.unity.com/tutorial/physics-best-practices#
 
 ## GameDesign
 ### Game Design Document
