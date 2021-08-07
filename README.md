@@ -51,6 +51,7 @@
 ## Optimization
 - https://docs.microsoft.com/ru-ru/windows/mixed-reality/develop/unity/performance-recommendations-for-unity
 - https://learn.unity.com/tutorial/physics-best-practices#
+- https://docs.unity3d.com/Manual/DrawCallBatching.html
 
 ## GameDesign
 ### Game Design Document
