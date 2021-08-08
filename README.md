@@ -64,6 +64,7 @@
 - https://docs.unity3d.com/Manual/shader-variant-collections.html
 - https://docs.unity3d.com/Manual/OcclusionCulling.html
 - https://learn.unity.com/tutorial/object-pooling
+- https://www.juegostudio.com/blog/7-ways-to-keep-unity-project-organized-unity3d-best-practices
 
 ## GameDesign
 ### Game Design Document
