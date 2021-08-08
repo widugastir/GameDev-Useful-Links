@@ -112,6 +112,7 @@
 - https://habr.com/ru/post/481510/
 - https://habr.com/ru/company/banzai/blog/478398/
 - https://habr.com/ru/post/266345/
+- https://www.juegostudio.com/category/unity-game-development
 
 ## GameDev & Coders resources
 ### Eng
