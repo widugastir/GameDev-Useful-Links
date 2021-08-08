@@ -65,6 +65,7 @@
 - https://docs.unity3d.com/Manual/OcclusionCulling.html
 - https://learn.unity.com/tutorial/object-pooling
 - https://www.juegostudio.com/blog/7-ways-to-keep-unity-project-organized-unity3d-best-practices
+- http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/
 
 ## GameDesign
 ### Game Design Document
