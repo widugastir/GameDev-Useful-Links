@@ -115,6 +115,7 @@
 - https://habr.com/ru/company/banzai/blog/478398/
 - https://habr.com/ru/post/266345/
 - https://www.juegostudio.com/category/unity-game-development
+- https://docs.unity3d.com/Packages/com.unity.device-simulator@3.0/manual/index.html
 - https://gitlab.com/dima13230/unity-libre-fracture/-/tree/master
 
 ## GameDev & Coders resources
