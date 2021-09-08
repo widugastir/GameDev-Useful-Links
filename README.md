@@ -129,6 +129,7 @@
 - https://twitter.com/hashtag/UnityTips?src=hashtag_click
 - https://twitter.com/AlanZucconi/status/1368890270884958210
 - https://github.com/EricFreeman/DynamicDecals
+- https://gitlab.com/dima13230/unity-libre-fracture/-/tree/master/
 
 ## GameDev & Coders resources
 ### Eng
