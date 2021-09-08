@@ -110,6 +110,22 @@
 - https://github.com/nickgravelyn/UnityToolbag
 - https://github.com/UnityCommunity/UnityLibrary
 
+## GameDev & Coders resources
+### Eng
+- https://stackoverflow.com/
+- https://www.gamedev.net/
+- https://itch.io/
+- https://www.gamasutra.com/
+- https://gamejolt.com/
+- https://simmer.io/
+
+### Rus
+- https://gamedev.ru/
+- https://dtf.ru/indie
+- https://metanit.com/sharp/tutorial/3.18.php
+- https://live13.livejournal.com/462582.html
+- https://habr.com/ru/post/340536/
+
 ## Unsorted
 - https://github.com/tenpn/ChestOfPropertyDrawers
 - https://cascadeur.com/
@@ -139,19 +155,4 @@
 - https://github.com/EricFreeman/DynamicDecals
 - https://gitlab.com/dima13230/unity-libre-fracture/-/tree/master/
 - https://github.com/Yecats/GameDevTutorials/tree/master/tutorials
-
-## GameDev & Coders resources
-### Eng
-- https://stackoverflow.com/
-- https://www.gamedev.net/
-- https://itch.io/
-- https://www.gamasutra.com/
-- https://gamejolt.com/
-- https://simmer.io/
-
-### Rus
-- https://gamedev.ru/
-- https://dtf.ru/indie
-- https://metanit.com/sharp/tutorial/3.18.php
-- https://live13.livejournal.com/462582.html
-- https://habr.com/ru/post/340536/
+- https://github.com/Yecats/UnityBehaviorTreeVisualizer
