@@ -125,6 +125,7 @@
 - https://dtf.ru/gamedev/176045-poleznye-resursy
 - https://dtf.ru/gamedev/642415-poleznye-sayty-s-assetami-dlya-indi-razrabotchika
 - https://habr.com/ru/post/571696/
+- https://habr.com/ru/company/otus/blog/564544/
 
 ## GameDev & Coders resources
 ### Eng
