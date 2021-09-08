@@ -126,6 +126,7 @@
 - https://dtf.ru/gamedev/642415-poleznye-sayty-s-assetami-dlya-indi-razrabotchika
 - https://habr.com/ru/post/571696/
 - https://habr.com/ru/company/otus/blog/564544/
+- https://twitter.com/hashtag/UnityTips?src=hashtag_click
 
 ## GameDev & Coders resources
 ### Eng
