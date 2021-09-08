@@ -44,6 +44,10 @@
 ## Assets
 - https://itch.io/game-assets
 - https://www.kenney.nl/assets
+- https://www.reddit.com/r/gameassets/
+- https://opengameart.org/?ref=dtf.ru
+- https://www.reinerstilesets.de/
+- https://craftpix.net/freebies/
 ### Images
 - https://unsplash.com/license
 - https://pixabay.com/service/license/
