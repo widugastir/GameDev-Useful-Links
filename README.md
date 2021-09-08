@@ -48,9 +48,11 @@
 - https://opengameart.org/?ref=dtf.ru
 - https://www.reinerstilesets.de/
 - https://craftpix.net/freebies/
-### Images
+- 
+### 2D Assets
 - https://unsplash.com/license
 - https://pixabay.com/service/license/
+- https://game-icons.net/
 
 ## UI
 - https://gamedev-resources.com/tutorials-2/
