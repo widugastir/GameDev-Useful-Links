@@ -117,6 +117,9 @@
 - https://www.juegostudio.com/category/unity-game-development
 - https://docs.unity3d.com/Packages/com.unity.device-simulator@3.0/manual/index.html
 - https://gitlab.com/dima13230/unity-libre-fracture/-/tree/master
+- https://dtf.ru/gamedev/243437-sbornik-pomoshchnik-dlya-nachinayushchih-razrabotchikov-igr-besplatnye-programmy-i-assety#sites-and-assets
+- https://dtf.ru/gamedev/176045-poleznye-resursy
+- https://dtf.ru/gamedev/642415-poleznye-sayty-s-assetami-dlya-indi-razrabotchika
 
 ## GameDev & Coders resources
 ### Eng
