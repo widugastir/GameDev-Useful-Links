@@ -52,6 +52,9 @@
 - https://unsplash.com/license
 - https://pixabay.com/service/license/
 
+## UI
+- https://yecats.github.io/2021/02/02/Create-an-in-game-inventory-with-UI-Toolkit.html
+
 ## 2D
 - https://blog.unity.com/technology/a-lightning-round-of-great-tips-for-2d-games
 - https://blog.unity.com/technology/2d-pixel-perfect-how-to-set-up-your-unity-project-for-retro-8-bits-games
