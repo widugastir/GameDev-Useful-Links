@@ -53,6 +53,7 @@
 - https://unsplash.com/license
 - https://pixabay.com/service/license/
 - https://game-icons.net/
+- https://wenrexa.itch.io/ui-different03
 
 ## UI
 - https://gamedev-resources.com/tutorials-2/
@@ -136,6 +137,7 @@
 - https://twitter.com/AlanZucconi/status/1368890270884958210
 - https://github.com/EricFreeman/DynamicDecals
 - https://gitlab.com/dima13230/unity-libre-fracture/-/tree/master/
+- https://github.com/Yecats/GameDevTutorials/tree/master/tutorials
 
 ## GameDev & Coders resources
 ### Eng
