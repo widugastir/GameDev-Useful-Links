@@ -58,6 +58,7 @@
 ## UI
 - https://gamedev-resources.com/tutorials-2/
 - https://yecats.github.io/2021/02/02/Create-an-in-game-inventory-with-UI-Toolkit.html
+- https://gamedev-resources.com/create-an-in-game-inventory-ui-with-ui-toolkit/
 
 ## 2D
 - https://blog.unity.com/technology/a-lightning-round-of-great-tips-for-2d-games
