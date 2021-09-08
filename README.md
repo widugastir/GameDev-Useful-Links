@@ -79,6 +79,7 @@
 - https://www.juegostudio.com/blog/7-ways-to-keep-unity-project-organized-unity3d-best-practices
 - http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/
 - https://www.gamasutra.com/blogs/YoannPignole/20140103/207987/Platformer_controls_how_to_avoid_limpness_and_rigidity_feelings.php
+- https://docs.unity3d.com/Manual/GPUInstancing.html
 
 ## GameDesign
 ### Game Design Document
