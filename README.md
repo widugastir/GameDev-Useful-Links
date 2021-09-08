@@ -159,3 +159,4 @@
 - https://github.com/Yecats/GameDevTutorials/tree/master/tutorials
 - https://github.com/Yecats/UnityBehaviorTreeVisualizer
 - https://github.com/nothke/dx-highlighter/tree/master
+- https://habr.com/ru/company/otus/blog/561624/
