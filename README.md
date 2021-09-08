@@ -124,6 +124,7 @@
 - https://dtf.ru/gamedev/243437-sbornik-pomoshchnik-dlya-nachinayushchih-razrabotchikov-igr-besplatnye-programmy-i-assety#sites-and-assets
 - https://dtf.ru/gamedev/176045-poleznye-resursy
 - https://dtf.ru/gamedev/642415-poleznye-sayty-s-assetami-dlya-indi-razrabotchika
+- https://habr.com/ru/post/571696/
 
 ## GameDev & Coders resources
 ### Eng
