@@ -127,6 +127,7 @@
 - https://habr.com/ru/post/571696/
 - https://habr.com/ru/company/otus/blog/564544/
 - https://twitter.com/hashtag/UnityTips?src=hashtag_click
+- https://twitter.com/AlanZucconi/status/1368890270884958210
 
 ## GameDev & Coders resources
 ### Eng
