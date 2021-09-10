@@ -160,3 +160,4 @@
 - https://github.com/Yecats/UnityBehaviorTreeVisualizer
 - https://github.com/nothke/dx-highlighter/tree/master
 - https://habr.com/ru/company/otus/blog/561624/
+- https://github.com/neon-age/Compact-Unity-Events
