@@ -131,6 +131,7 @@ https://radioai.ru/
 - https://metanit.com/sharp/tutorial/3.18.php
 - https://live13.livejournal.com/462582.html
 - https://habr.com/ru/post/340536/
+- https://dtf.ru/u/298360-dyst0p/884339-nebolshaya-pamyatka-dlya-teh-kto-hochet-brosit-nelyubimuyu-rabotu-i-perekatitsya-v-unity
 
 ## Unsorted
 - https://github.com/tenpn/ChestOfPropertyDrawers
@@ -166,3 +167,4 @@ https://radioai.ru/
 - https://github.com/nothke/dx-highlighter/tree/master
 - https://habr.com/ru/company/otus/blog/561624/
 - https://github.com/neon-age/Compact-Unity-Events
+- https://docs.microsoft.com/ru-ru/dotnet/csharp/fundamentals/coding-style/coding-conventions
