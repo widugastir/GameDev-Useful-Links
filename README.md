@@ -169,3 +169,4 @@ https://radioai.ru/
 - https://github.com/neon-age/Compact-Unity-Events
 - https://docs.microsoft.com/ru-ru/dotnet/csharp/fundamentals/coding-style/coding-conventions
 - https://refactoring.guru/ru/refactoring?ref=dtf.ru
+- https://habr.com/ru/users/PatientZero/posts/?ref=dtf.ru
