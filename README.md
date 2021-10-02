@@ -171,3 +171,5 @@ https://radioai.ru/
 - https://refactoring.guru/ru/refactoring?ref=dtf.ru
 - https://habr.com/ru/users/PatientZero/posts/?ref=dtf.ru
 - https://git-scm.com/book/ru/v2/
+- https://www.codewars.com/?language=csharp
+- 
