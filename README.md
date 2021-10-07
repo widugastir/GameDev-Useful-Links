@@ -172,4 +172,4 @@ https://radioai.ru/
 - https://habr.com/ru/users/PatientZero/posts/?ref=dtf.ru
 - https://git-scm.com/book/ru/v2/
 - https://www.codewars.com/?language=csharp
-- 
+- https://letsenhance.io/
