@@ -173,3 +173,4 @@ https://radioai.ru/
 - https://git-scm.com/book/ru/v2/
 - https://www.codewars.com/?language=csharp
 - https://letsenhance.io/
+- http://www-cs-students.stanford.edu/~amitp/gameprog.html
