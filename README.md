@@ -174,3 +174,4 @@ https://radioai.ru/
 - https://www.codewars.com/?language=csharp
 - https://letsenhance.io/
 - http://www-cs-students.stanford.edu/~amitp/gameprog.html
+- https://www.toptal.com/unity-unity3d/top-unity-development-mistakes
