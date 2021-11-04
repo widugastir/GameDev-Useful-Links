@@ -175,3 +175,4 @@ https://radioai.ru/
 - https://letsenhance.io/
 - http://www-cs-students.stanford.edu/~amitp/gameprog.html
 - https://www.toptal.com/unity-unity3d/top-unity-development-mistakes
+- https://github.com/mjholtzem/Unity-2D-Destruction
